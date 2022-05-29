@@ -1,7 +1,5 @@
 <template>
-<div class="h-full overflow-hidden clash">
-  dd
-</div>
+<div class="h-full overflow-hidden clash"></div>
 
 </template>
 

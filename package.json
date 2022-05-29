@@ -8,6 +8,7 @@
     "lint": "eslint ."
   },
   "devDependencies": {
+    "@faker-js/faker": "^7.1.0",
     "@iconify/vue": "^3.2.1",
     "@nuxt/content": "^2.0.0",
     "@nuxtjs/color-mode": "^3.0.3",

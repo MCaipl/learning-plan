@@ -1,7 +1,7 @@
 <template>
   <div class="flex justify-between max-w-4xl px-4 py-4 mx-auto sm:px-8">
     <!-- Navigation -->
-    <div class="text-gray-700 dark:text-gray-200">
+    <div class="text-slate-700 dark:text-slate-200">
       <ContentNavigation v-slot="{ navigation }">
         <NuxtLink
           v-for="link of navigation"
@@ -15,8 +15,8 @@
       </ContentNavigation>
     </div>
     <!-- Social icons & Color Mode -->
-    <div class="space-x-3 text-gray-500 transition">
-      <ColorModeSwitch class="hover:text-gray-700 dark:hover:text-gray-300" />
+    <div class="space-x-3 text-slate-500 transition">
+      <ColorModeSwitch class="hover:text-slate-700 dark:hover:text-slate-300" />
     </div>
   </div>
 </template>

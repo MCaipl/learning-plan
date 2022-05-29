@@ -1,5 +1,5 @@
 <template>
-  <div class="sm:py-10 ">
+  <div class="sm:py-10">
     <Html lang="en" />
     <Meta property="og:image" content="/cover.jpg" />
     <Meta name="twitter:card" content="summary_large_image" />
@@ -10,6 +10,6 @@
 
 <style lang="postcss">
 body {
-  @apply bg-gray-50 dark:bg-gray-900;
+  @apply bg-slate-50 dark:bg-slate-900;
 }
 </style>
